@@ -373,7 +373,7 @@ ul>li>a {
   border-radius: 2rem;
   cursor: pointer;
 }
-
+/* Last section */
 .lastText {
 
   margin-top: 22px;
@@ -452,6 +452,7 @@ ul>li>a {
   /* background-color: rgba(0, 0, 0, 0.5); */
   z-index: 999;
 }
+/* end */
 
 .menu-icon,
 .closemenu {
@@ -464,8 +465,11 @@ ul>li>a {
 
 .editor {
   opacity: .3;
+
 }
 
+
+/* Media screen */
 @media (max-width: 480px) {
   body {
     position: relative;
